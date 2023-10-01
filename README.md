@@ -8,14 +8,14 @@ main
 
 CSS:
 
-Media query
-Flexbox
-Grid Layout
+Media query,
+Flexbox,
+Grid Layout,
 
 JS:
 
-Funções anonimas e arrow functions.
-Classlist(remove/add)
-Event listeners (click, mouseover...)
-ForEach
-QuerrySelector
+Funções anonimas e arrow functions,
+Classlist(remove/add),
+Event listeners (click, mouseover...),
+ForEach,
+QuerrySelector,
