@@ -14,4 +14,8 @@ Grid Layout
 
 JS:
 
-get
+Funções anonimas e arrow functions.
+Classlist(remove/add)
+Event listeners (click, mouseover...)
+ForEach
+QuerrySelector
