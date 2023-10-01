@@ -18,4 +18,6 @@ Funções anonimas e arrow functions,
 Classlist(remove/add),
 Event listeners (click, mouseover...),
 ForEach,
-QuerrySelector,
+QuerrySelector.
+
+Link Netlify: https://onepiecelayout.netlify.app/
